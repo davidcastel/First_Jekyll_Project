@@ -1,0 +1,14 @@
+title: "Jekyll Bootstrap Starter" # the base hostname & protocol for your site, e.g. http://example.com
+tagline: "An awesome tagline"
+email: "davidccbp20@gmail.com"
+description: >- #This mean ignore new lines until 'baseurl:'
+        Add description here
+author: David Castellanos
+url: "" #The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+google_analytics: UA-111111111-1
+
+plugins:
+        - jekyll-autoprefixer
+        - jekyll-seo-tag
+        - jekyll-sitemap
